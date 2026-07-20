@@ -1,0 +1,28 @@
+Seza-Motors/
+│
+├── index.html
+├── inventory.html
+├── vehicle.html
+├── about.html
+├── contact.html
+├── team.html
+│
+├── css/
+│   ├── style.css
+│   ├── animations.css
+│   └── responsive.css
+│
+├── js/
+│   ├── app.js
+│   ├── inventory.js
+│   ├── vehicle.js
+│   └── animations.js
+│
+├── data/
+│   └── vehicles.json
+│
+├── images/
+├── assets/
+├── robots.txt
+├── sitemap.xml
+└── README.md
